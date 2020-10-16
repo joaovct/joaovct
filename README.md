@@ -10,5 +10,5 @@ Hey, I am
 ### 💅🏻 Styled Components
 ### ☁ MongoDB and others Databases
 
- I am always ready to learn new things that may be needed for my projects. \
+ I am always ready to learn new things that may be needed for new projects. \
  And last but no least, check my pinned projects, there is some cool things there 🙋🏽‍♂️.

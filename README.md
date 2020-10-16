@@ -1,7 +1,7 @@
 Hey, I am
 # João Victor 👋🏽
 
- I'm a developer passionate about building web apps, currently focused on front-end. I have developed with some techs such as C, C++, Java, PHP and others. But I went deep with React and NodeJS.\
+ I'm a developer passionate about building web apps, currently focused on front-end. I have developed with some languages, such as C, C++, Java, PHP and others. But I went deep with React and NodeJS.\
  Here is some techs that I'm working on my projects:
 ### 👨🏽‍💻 Javascript & Typescript
 ### 🧐 NodeJS

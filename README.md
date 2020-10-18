@@ -8,7 +8,7 @@ Hey, I am
 ### ⚛ React
 ### 🔳 Redux
 ### 💅🏻 Styled Components
-### ☁ MongoDB and others Databases
+### ☁ Databases
 
  I am always ready to learn new things that may be needed for new projects. \
  And last but no least, check my pinned projects, there is some cool things there 🙋🏽‍♂️.

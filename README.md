@@ -2,4 +2,4 @@
 
 Hey, I am
 # João Victor 👋🏽
- Programmer developing websites for people or any idea that comes into my mind.
+ Front-end engineer developing anything that comes into my mind.

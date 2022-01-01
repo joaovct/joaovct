@@ -2,4 +2,4 @@
 
 Hey, I am
 # João Victor 👋🏽
- Front-end engineer developing anything that comes into my mind.
+ Front-end developer developing anything that comes into my mind.
